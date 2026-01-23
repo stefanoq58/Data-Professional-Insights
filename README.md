@@ -28,6 +28,14 @@ The project aimed to break down the demographic and professional composition of 
 ---
 
 ## Key Insights
-- A substantial portion of respondents indicated that breaking into the data field requires moderate to high effort, highlighting barriers to entry
-- Data Scientists consistently appear in the highest salary ranges among surveyed roles
-- 
+- The analysis is based on 630 survey respondents with an average age of 29.87, indicating a predominantly early-career to mid-career data workforce.
+- Data Scientists earn the highest average salary (94), followed by Data Engineers (65) and Data Architects (64), confirming a compensation premium for advanced and specialized roles.
+- A substantial portion of respondents indicated that breaking into the data field requires moderate to high effort, highlighting barriers to entry.
+- Overall salary satisfaction averages 4.27 out of 8.54, signaling moderate dissatisfaction and a gap between compensation expectations and reality across the field.
+- Entry into the data profession is perceived as challenging: 31.7% of respondents report it as Difficult or Very Difficult, while 42.7% describe it as neither easy nor difficult, indicating non-trivial barriers  to entry.
+- Python dominates as the preferred programming language, receiving over 400 votes, far exceeding R and other languages, and demonstrating its cross-role relevance in the data industry.
+
+  ---
+
+## Visual Dashboard Preview
+ ![Data Professional Insights]([https://github.com/user-attachments/assets/73fdc21c-183c-4f9b-bbeb-b3d75ba4428b](https://github.com/stefanoq58/Data-Professional-Insights-Analyzing-Roles-Opinions-and-Industry-Trends/blob/main/Data%20Professional%20Insights.jpg?raw=true))
