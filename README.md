@@ -1,4 +1,4 @@
-# Data-Professional-Insights-Analyzing-Roles-Opinions-and-Industry-Trends
+# Data Industry Insights: Analyzing Roles, Opinions, and Industry Trends
 A Power BI focus project
 
 ## Overview 
